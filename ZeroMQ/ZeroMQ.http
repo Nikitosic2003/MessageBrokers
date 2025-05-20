@@ -1,0 +1,6 @@
+@ZeroMQ_HostAddress = http://localhost:5157
+
+GET {{ZeroMQ_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

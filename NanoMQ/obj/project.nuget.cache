@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lj6quFnceR8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nikita\\Desktop\\MessageBrokers\\NanoMQ\\NanoMQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.15\\microsoft.aspnetcore.openapi.8.0.15.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.2\\microsoft.visualstudio.azure.containers.tools.targets.1.21.2.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\mqttnet\\4.2.0.706\\mqttnet.4.2.0.706.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\swashbuckle.aspnetcore\\6.6.2\\swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.6.2\\swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.6.2\\swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
+    "C:\\Users\\Nikita\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.6.2\\swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "NanoMQ зависит от MQTTnet (>= 4.1.5.5), но MQTTnet 4.1.5.5 не найден. Использовано наилучшее приближенное соответствие MQTTnet 4.2.0.706.",
+      "libraryId": "MQTTnet",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

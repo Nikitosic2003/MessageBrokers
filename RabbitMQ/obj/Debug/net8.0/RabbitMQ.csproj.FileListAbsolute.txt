@@ -1,0 +1,17 @@
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\obj\Debug\net8.0\RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\obj\Debug\net8.0\RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\obj\Debug\net8.0\RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\obj\Debug\net8.0\RabbitMQ.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\obj\Debug\net8.0\RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\bin\Debug\net8.0\RabbitMQ.exe
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\bin\Debug\net8.0\RabbitMQ.deps.json
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\bin\Debug\net8.0\RabbitMQ.runtimeconfig.json
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\bin\Debug\net8.0\RabbitMQ.dll
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\bin\Debug\net8.0\RabbitMQ.pdb
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\obj\Debug\net8.0\RabbitMQ.csproj.Up2Date
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\obj\Debug\net8.0\RabbitMQ.dll
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\obj\Debug\net8.0\refint\RabbitMQ.dll
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\obj\Debug\net8.0\RabbitMQ.pdb
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\obj\Debug\net8.0\RabbitMQ.genruntimeconfig.cache
+C:\Users\Nikita\Desktop\MessageBrokers\RabbitMQ\obj\Debug\net8.0\ref\RabbitMQ.dll

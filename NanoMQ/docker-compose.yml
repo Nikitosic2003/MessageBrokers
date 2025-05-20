@@ -1,0 +1,22 @@
+services:
+  nanomq:
+    image: emqx/nanomq:latest
+    container_name: nanomq-1
+    ports:
+      - "1883:1883"
+    volumes:
+      - ./nanomq.conf:/etc/nanomq/nanomq.conf
+    healthcheck:
+      test: ["CMD-SHELL", "timeout 5 bash -c 'echo -e \"\\x10\\x00\\x00\\x00\\x00\\x00\" | nc -w 2 localhost 1883' || exit 0"]
+      interval: 10s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+    environment:
+      NANOMQ_LOG_LEVEL: info
+
+  benchmark:
+    build: .
+    depends_on:
+      nanomq:
+        condition: service_started

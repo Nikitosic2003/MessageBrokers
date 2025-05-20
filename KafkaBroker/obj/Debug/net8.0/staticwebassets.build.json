@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "otmA65O0dVYiX9D4IHzdbBnIIKC5T/JmZBN9ejq7BB0=",
+  "Source": "KafkaBroker",
+  "BasePath": "_content/KafkaBroker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
